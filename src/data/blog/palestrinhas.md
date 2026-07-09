@@ -6,7 +6,7 @@ description: "Relatório final da disciplina MAC0102"
 featured: true
 draft: false
 ---
-Após assistir as palestras de cada trilha, eu decidi que escolherei a trilha de Sistemas de Software.
+Após assistir as palestras de cada trilha, eu decidi seguir a trilha de Sistemas de Software.
 
 Apesar de ter me interessado por outras trilhas, como a de Teoria e a de Dados, principalmente, 
 a trilha de Sistemas foi a que mais me chamou a atenção e despertou meu interesse. As palestras

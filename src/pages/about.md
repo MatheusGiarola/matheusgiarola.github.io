@@ -6,7 +6,7 @@ title: "About"
 I'm a CS student at [IME-USP](https://www.ime.usp.br/), currently on 3<sup>rd</sup> period. I'm interested in topics such as:
 
 - Machine Learning 
-- Free Software development
+- SOpen-Source Software development
 
 But I'm finding my way through this whole universe of Computer Science =).
 
